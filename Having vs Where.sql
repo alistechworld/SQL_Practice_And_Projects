@@ -31,3 +31,4 @@ FROM employee_demographics
 GROUP BY gender
 HAVING AVG_age > 40
 ;
+# WA MA CHANGI HAA TAHTOO DOR HO KAA
